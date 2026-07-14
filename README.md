@@ -6,9 +6,9 @@
 
 Computational biologist with a wet-lab background, working on paediatric brain cancer.
 
-**🔬 Wet lab** · 3D tumour models · high-throughput drug screening  
-**🧬 Computational** · single-cell & long-read genomics · isoform switching in diffuse midline glioma  
-**⚙️ Engineering** · reproducible, containerised Nextflow pipelines · [agentic-research-loop](https://github.com/pgraber/agentic-research-loop)
+**🔬 Wet lab** · 3D tumour models · high-throughput drug screening · imaging  
+**🧬 Computational** · single-cell, bulk & small RNA-seq · long-read · drug-response & image analysis  
+**⚙️ Engineering & AI** · reproducible, containerised Nextflow pipelines · agentic AI for research ([agentic-research-loop](https://github.com/pgraber/agentic-research-loop))
 
 ## 🛠️ What I work with
 
