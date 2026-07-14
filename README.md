@@ -17,12 +17,6 @@ in R and Python with Nextflow and containers.
 **Currently** · long-read, single-cell isoform analysis of paediatric diffuse midline glioma.
 *Manuscript in preparation.*
 
-### Selected publications
-- **[High-throughput 3D engineered paediatric tumour models for precision medicine](https://doi.org/10.1038/s44320-025-00152-y)** · *Molecular Systems Biology*, 2025. Led the RNA-seq and gene-expression analysis.
-- **[Surface proteomic analysis reveals noncanonical cell-membrane ER chaperones in high-grade gliomas](https://doi.org/10.1021/acs.jproteome.5c00616)** · *Journal of Proteome Research*, 2025. RNA-seq analysis.
-
-*Full list* · [Google Scholar](https://scholar.google.com/citations?user=YW_xZNQAAAAJ) · [ORCID](https://orcid.org/0000-0002-3157-1434)
-
 ### Featured project
 **[agentic-research-loop](https://github.com/pgraber/agentic-research-loop)** · a rigour-first research
 assistant built as Claude Code skills. A human-in-the-loop, QC'd analysis loop with a full decision
