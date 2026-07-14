@@ -4,11 +4,11 @@
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YW_xZNQAAAAJ) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3157-1434) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philipp-graber-684b67229) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgraber@ccia.org.au)
 
-I'm a computational biologist at the **Children's Cancer Institute** in Sydney. I study childhood brain cancer by reading the genes of individual cells, one cell at a time, to understand how these tumours grow and adapt to their surroundings.
+I'm a computational biologist at the **Children's Cancer Institute** (UNSW Sydney), working on single-cell and long-read transcriptomics of paediatric brain cancer.
 
-Right now I'm focused on a childhood brain tumour called diffuse midline glioma, using long-read sequencing to see which version of each gene a cell switches on. *(Paper in progress.)*
+Right now I'm profiling isoform-level cell states and isoform switching in diffuse midline glioma (H3K27M-mutant). *(Manuscript in preparation.)*
 
-I care about doing this the right way, so I build every analysis to be fully reproducible. Anyone should be able to rerun it and get exactly the same result.
+I build my analyses to run reproducibly end to end, in containerised, version-controlled pipelines.
 
 ## 🧬 Languages & tools
 
@@ -18,4 +18,4 @@ I mostly work in these day to day:
 
 ## 🔬 What I'm building
 
-**[agentic-research-loop](https://github.com/pgraber/agentic-research-loop)** — a set of tools I built to run analyses with AI help while keeping everything rigorous and reproducible. It's how I use AI in my research without cutting corners.
+**[agentic-research-loop](https://github.com/pgraber/agentic-research-loop)** — a rigour-first research assistant built as Claude Code skills: a human-in-the-loop, QC'd analysis loop with a full decision record. How I use AI in bioinformatics without giving up reproducibility.
