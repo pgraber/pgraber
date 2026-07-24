@@ -8,7 +8,7 @@ Computational biologist with a wet-lab background, working on paediatric brain c
 
 **🔬 Wet lab** · 3D tumour models · high-throughput drug screening · imaging  
 **🧬 Computational** · single-cell, bulk & small RNA-seq · long-read · drug-response & image analysis  
-**⚙️ Engineering & AI** · reproducible, containerised Nextflow pipelines · agentic AI for research ([agentic-research-loop](https://github.com/pgraber/agentic-research-loop))
+**⚙️ Engineering & AI** · reproducible, containerised Nextflow pipelines · lab tools ([bioprint-tracker](https://github.com/pgraber/bioprint-tracker)) · agentic AI for research ([agentic-research-loop](https://github.com/pgraber/agentic-research-loop))
 
 ## 🛠️ What I work with
 
